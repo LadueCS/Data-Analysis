@@ -1,0 +1,14 @@
+Employee_Name,EmpID,PayRate,Position,State,Zip,Sex,MaritalDesc,DateofHire,EmploymentStatus,ManagerName,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,DaysLateLast30
+"Foss, Jason",1192991000,65.0,IT Director,MA,1460,M ,Single,4/15/2011,Active,Jennifer Zamora,3.76,5,5,0.0
+"Roup,Simon",1106026933,62.0,IT Manager - DB,MA,2481,M ,Single,1/20/2013,Active,Jennifer Zamora,2.96,5,7,0.0
+"Ruiz, Ricardo",1001175250,21.0,IT Manager - DB,MA,1915,M ,Divorced,1/9/2012,Voluntarily Terminated,Jennifer Zamora,2.51,4,6,
+"Monroe, Peter",1011022863,63.0,IT Manager - Infra,MA,2134,M ,Married,2/15/2012,Active,Jennifer Zamora,2.39,3,6,0.0
+"Dougall, Eric",1101023754,64.0,IT Manager - Support,MA,1886,M ,Single,1/5/2014,Active,Jennifer Zamora,1.99,5,5,0.0
+"Clayton, Rick",1301052902,28.99,IT Support,MA,2170,M ,Single,9/5/2012,Active,Eric Dougall,2.55,3,6,0.0
+"Galia, Lisa",1501072093,31.4,IT Support,CT,6040,F,Single,5/1/2010,Active,Eric Dougall,1.21,4,5,0.0
+"Lindsay, Leonara ",602000312,26.0,IT Support,CT,6070,F,Single,1/21/2011,Active,Eric Dougall,4.64,4,5,0.0
+"Soto, Julia ",1203032263,27.49,IT Support,MA,2360,F,Married,6/10/2011,Active,Eric Dougall,4.3,3,5,0.0
+"Bacong, Alejandro ",1212052023,45.0,IT Support,MA,1886,M ,Divorced,1/5/2015,Active,Peter Monroe,1.84,5,6,0.0
+"Cisco, Anthony",1102024173,42.0,IT Support,MA,2135,M ,Married,3/30/2015,Active,Peter Monroe,2.21,5,7,0.0
+"Dolan, Linda",1101023540,37.0,IT Support,MA,2119,F,Married,1/5/2015,Active,Peter Monroe,4.11,4,6,0.0
+"Gonzalez, Maria",1988299991,39.0,IT Support,MA,2472,F,Separated,1/5/2015,Active,Peter Monroe,4.61,4,5,0.0
