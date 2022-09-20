@@ -3,6 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - lxml
   - matplotlib
+  - openpyxl
   - pandas
   - xlrd
